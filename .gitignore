@@ -1,0 +1,55 @@
+# Archivos compilados
+target/
+out/
+build/
+bin/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.lock
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+*.tmp
+
+# NetBeans
+nbproject/
+nbactions.xml
+nbbuild/
+dist/
+nbdist/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Archivos de configuración local
+application-local.properties
+application-dev.properties
